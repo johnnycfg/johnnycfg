@@ -1,24 +1,33 @@
-## Hey, eu sou o Johnny Ferraz!
- <div>
-  <a href="https://github.com/johnnycfg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnycfg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnycfg&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Johnny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Johnny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Johnny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Johnny-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+## 👋 Hi, I'm Johnny Ferraz  
+Front-end Developer focused on building scalable, high-performance, data-driven web applications.
 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/johnnycfg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:johnny.chr@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/johnnycfg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## About me
+- Experience with production applications in healthcare, education, and mobility domains  
+- Strong focus on performance, usability, and code quality  
+- Development of complex interfaces and reusable components  
+- Integration with REST APIs  
+- Experience with data visualization and interactive maps (Leaflet)  
+- Strong background in unit testing and code standardization  
+- Participation in architectural decisions  
+
+## 🛠️ Tech Stack
+
+**Core:**  
+JavaScript • TypeScript • React • Next.js • Vite  
+
+**UI & Libs:**  
+Material UI (MUI) • shadcn/ui • Radix UI • TanStack Query • Axios • React Hook Form • Zod  
+
+**Data & Maps:**  
+SQL • Leaflet  
+
+**Tools & Testing:**  
+Git • Vitest • Testing Library • Unit Testing  
+
+**Methodologies:**  
+SCRUM • Kanban  
+
+## 📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/johnnycfg  
+📧 Email: johnny.chr@hotmail.com  
